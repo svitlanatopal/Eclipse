@@ -486,7 +486,7 @@ class cgi_lib
       //  (This assumes the form contains a "name" input field.)
       //
       String name = (String)form_data.get("name");
-      System.out.println("Name=" + name);
+      System.out.println("Svetlana=" + name);
       System.out.println("<hr>");
 
       //
