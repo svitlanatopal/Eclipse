@@ -22,6 +22,7 @@ class hello
       System.out.println("<p>");
       System.out.println("Email: " + form_data.get("email"));      
       System.out.println("<p>");
+      System.out.println("<p6>");
 
       System.out.println(cgi_lib.HtmlBot());
   }
